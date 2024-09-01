@@ -1,0 +1,1 @@
+web: gunicorn plsheroku2024.wsgi --log-file -
